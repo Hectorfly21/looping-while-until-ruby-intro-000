@@ -6,4 +6,4 @@ def using_while
   end
 end
 
-puts " The total #{levitation_force}"
+puts "The total #{levitation_force}"
